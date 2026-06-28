@@ -1,12 +1,12 @@
 # jdcreative43.github.io
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Read.ml | WhatsApp API Solutions</title>
+<title>JD Creative Co | WhatsApp API Solutions</title>
 
 <style>
 

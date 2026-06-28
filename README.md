@@ -232,7 +232,7 @@ display:none;
 
 <header>
 
-<div class="logo">Read.ml</div>
+<div class="logo">Jd Creative</div>
 
 <nav>
 
